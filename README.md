@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am a REACT Developer.
 
 <!--
 **techreenarai/techreenarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
